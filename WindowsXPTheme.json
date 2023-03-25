@@ -1,0 +1,63 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "Windows XP Theme",
+        "author": "Sakiro#6328",
+        "license": "CEA"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1088924848132206593\/1088947320864899142\/67168c4fa7c2fdaa85c7db830fd5daa168c52706.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1088934849311670423\/Tahoma_Regular_font.ttf"
+    },
+    "simple_colors": {
+        "active_channel": -884239403,
+        "accent": -1356366131,
+        "mention_highlight": 623345357,
+        "background": 115795686,
+        "background_secondary": 271023821,
+        "statusbar": 170246233
+    },
+    "colors": {
+        "brand": -682912811,
+        "brand_new_500": -680547874,
+        "primary_dark_400": -243682844,
+        "primary_dark_360": -1295266869,
+        "uikit_btn_compound_color_selector_dark": -11824171,
+        "primary_dark_300": -8804871,
+        "uikit_btn_compound_color_selector_light": -9459234,
+        "uikit_settings_item_text_color_dark": -234881025,
+        "uikit_settings_item_text_color_light": -1301304866,
+        "abc_tint_switch_track": -1602318191,
+        "link": -8669457,
+        "link_500": -11824171,
+        "primary_dark_200": -1,
+        "white_500": -1,
+        "accent_material_dark": -1104707891,
+        "accent_material_light": -884239403,
+        "brand_new_260": -495995918
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -236669952,
+        "ic_sidebar_notifications_off_dark_24dp": -237554646,
+        "ic_sidebar_pins_off_dark_24dp": -203816882,
+        "ic_sidebar_pins_on_dark_24dp": -153668566,
+        "ic_thread": -240536138
+    },
+    "raws": {
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089000481659039894\/call_ringing.mp3",
+        "user_join": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089000481961033838\/user_joined.mp3",
+        "stream_ended": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089000482221072404\/stream_ended.mp3",
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089000483215126618\/call_calling.mp3",
+        "mute": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089000482430791810\/mute.mp3",
+        "unmute": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089000482669871175\/unmute.mp3",
+        "user_leave": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089000482900549672\/user_leave.mp3",
+        "reconnect": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089232583327494174\/reconnect.mp3",
+        "stream_started": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089232583495262289\/stream_started.mp3",
+        "stream_user_left": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089232583755321374\/stream_user_left.mp3",
+        "user_moved": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089232583990190150\/user_moved.mp3",
+        "stream_user_joined": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089236902877593720\/stream_user_joined.mp3"
+    }
+}
