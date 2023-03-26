@@ -3,14 +3,19 @@
         "version": "1.0.0",
         "name": "Windows XP Theme",
         "author": "Sakiro#6328",
-        "license": "CEA"
+        "license": "CEA",
+        "updater": "https:\/\/github.com\/CaioAlbuquerque123\/Windows-XP-Theme\/raw\/main\/WindowsXPTheme.json"
     },
     "background": {
         "overlay_alpha": 120,
         "url": "https:\/\/media.discordapp.net\/attachments\/1088924848132206593\/1088947320864899142\/67168c4fa7c2fdaa85c7db830fd5daa168c52706.jpg"
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1088934849311670423\/Tahoma_Regular_font.ttf"
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089241732912255006\/tahoma.ttf",
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089241733142945832\/tahomabd.ttf",
+        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089241732710936779\/TAHOMAB0.TTF",
+        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089241733587537961\/Tahoma_Regular_font.ttf",
+        "roboto_medium_numbers": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1089241733386219560\/TAHOMA_0.TTF"
     },
     "simple_colors": {
         "active_channel": -884239403,
@@ -42,7 +47,7 @@
     "drawable_tints": {
         "ic_sidebar_notifications_on_dark_24dp": -236669952,
         "ic_sidebar_notifications_off_dark_24dp": -237554646,
-        "ic_sidebar_pins_off_dark_24dp": -203816882,
+        "ic_sidebar_pins_off_dark_24dp": -882780853,
         "ic_sidebar_pins_on_dark_24dp": -153668566,
         "ic_thread": -240536138
     },
